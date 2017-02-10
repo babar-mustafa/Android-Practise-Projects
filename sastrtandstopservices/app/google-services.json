@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "438378144796",
+    "firebase_url": "https://services-test-9b692.firebaseio.com",
+    "project_id": "services-test-9b692",
+    "storage_bucket": "services-test-9b692.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438378144796:android:af84952920f85396",
+        "android_client_info": {
+          "package_name": "com.example.babarmustafa.sastrtandstopservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438378144796-vh4tm93agrq26pcqbb51bnsc1fem3c78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSwQTW8mk2m8gYsuWMmT8wacSyZxKHbOQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
